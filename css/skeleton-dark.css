@@ -39,7 +39,7 @@
     width: 100%;
     max-width: 600px;
     text-align: center;
-    margin: 0 auto;
+    margin: 0;
     padding: 0;
     box-sizing: border-box; }
   .column {
@@ -79,7 +79,6 @@
     font-size: 100%; }
   body {
     background-color: #72162d;
-    margin-right: 5%;
     font-size: 18px;
     line-height: 24px;
     font-weight: 400;
