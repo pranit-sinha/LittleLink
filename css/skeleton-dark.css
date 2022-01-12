@@ -79,6 +79,7 @@
     font-size: 100%; }
   body {
     background-color: #72162d;
+    margin-right: auto;
     font-size: 18px;
     line-height: 24px;
     font-weight: 400;
