@@ -50,7 +50,8 @@
 
   @media (min-width:320px) {
     .container {
-         width: 80%; 
+       width: 80%; 
+       margin: auto; 
       }
   }
   
