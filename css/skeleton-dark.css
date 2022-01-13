@@ -3,10 +3,11 @@
     position: center;
     display: flex;
     justify-content: center;
-    width: 84%;
+    width: 100%;
     max-width: 600px;
     text-align: center;
-    margin: auto;
+    margin-right: 10%;
+    margin-left: 10%;
     padding: 0;
     box-sizing: border-box; }
   .column {
